@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayron</a></h1>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
-<!--
-**AyronFelipe/AyronFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="right">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Here are some ideas to get you started:
+<p>
+  Hey you! Well, I've been working with programming since 2016, from that time until now I've been through a lot (believe me :persevere:). I already worked with python and your incredible ecossytem, made crazy things with JavaScript, I've spent nights awake implementing features <s>(not proud)</s>, and some other things you must have gone through too. But, I believe these are things we have to go through to get where we want.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I like code, films, series, music, anime. A nerd to the core.</p>
+
+<p>I think that's it, good luck to you.</p>
+
+____
+
+[![Ayron's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=AyronFelipe&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/AyronFelipe)
